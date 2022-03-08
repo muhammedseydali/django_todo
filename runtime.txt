@@ -1,1 +1,2 @@
-python=3.8.1
+python=3.10.2
+Django==3.10.2
